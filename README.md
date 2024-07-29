@@ -92,6 +92,8 @@ Yes you can, check out the [github repo here](https://github.com/Preciousomonze/
 ### 1.2.1 - 28/07/2020
 * Update: Adjusted stable tag, Github Actions wahala and struggle, some svn structure clean up.
 
+### 2.0 - 29/07/2024
+* Fork Update: cleaned up the code and declared HPOS compatability.
 ## Screenshots ##
 
 ### 1. Woocommerce billing phone field includes a flag
