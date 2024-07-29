@@ -1,21 +1,23 @@
-# Phone Validator for WooCommerce
+# Fork of Phone Validator for WooCommerce maintaned for personal projects
 
-**Author:** __Preciousomonze__
+**Fork by:** __Yousif Ward__
+
+**Original Author:** __Preciousomonze__
 
 **Contributors:** __Helgatheviking 🤾🏻‍♀️__
 
 
-**Donate link:** I do not mind a token for ordering Pancakes 🥞, so you can <a href="https://rave.flutterwave.com/pay/preciousomonze" target="_blank">__Drop something for your boy 🤓 🥳__</a>
+**Donate link for the original author:** I do not mind a token for ordering Pancakes 🥞, so you can <a href="https://rave.flutterwave.com/pay/preciousomonze" target="_blank">__Drop something for your boy 🤓 🥳__</a>
 
 **Tags:** woocommerce, preciousomonze plugin, phone validator, intlTelInput, woocommerce phone validator
 
 **Requires at least:** 5.0
 
-**Tested up to:** 5.4
+**Tested up to:** 6.6
 
 **Requires PHP:** 5.6
 
-**Stable tag:** 1.2.1
+**Stable tag:** 2.0
 
 **License:** GPLv3 or later
 
