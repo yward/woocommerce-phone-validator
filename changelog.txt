@@ -28,3 +28,5 @@
 
 = 1.2.1 =
 * Update: Adjusted stable tag, Github Actions wahala and struggle, some svn structure clean up.
+= 2.0 =
+* Fork Update: cleaned up the code and declared HPOS compatability.
